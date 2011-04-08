@@ -33,7 +33,7 @@ To get started:
    from this type of query.
 
         2011-04-07 21:50:57,742 DEBUG [org.springframework.web.client.RestTemplate] - <Created GET request for
-        "http://catalog.bizrate.com/services/catalog/v1/us/product?apiKey=<KEY>&publisherId=<ID>&placementId=1&
+        "catalog.bizrate.com/services/catalog/v1/us/product?apiKey=<KEY>&publisherId=<ID>&placementId=1&
         categoryId=&keyword=nike+men%2527s+shoes&productId=&productIdType=&offersOnly=false&merchantId=&brandId=&
         biddedOnly=&minPrice=&maxPrice=&minMarkdown=&zipCode=&freeShipping=&start=0&results=10&startOffers=0&
         resultsOffers=0&sort=relevancy_desc&attFilter=&showAttributes=false&showProductAttributes=false&
