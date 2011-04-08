@@ -40,7 +40,7 @@ To get started:
         minRelevancyScore=100&maxAge=&showRawUrl=&imageOnly=">
 
    There are domain object available, corresponding to the XML elements in this XML response. See the XSD schema, in
-   model/src/main/resources/service.xsd for a full description. Additionally, if you view the source code in the folder:
+   model/src/main/resources/service.xsd for a full description. Additionally, if you view the source code in the folder
    model/target/generated-sources/xjc you can see a series of Java objects representing the data returned by the API.
 
    ProductClient.java, for instance, returns a ProductResponse object, with methods getOffers(), getProducts(), etc.
